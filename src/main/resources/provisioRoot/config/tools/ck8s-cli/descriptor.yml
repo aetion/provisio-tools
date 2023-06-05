@@ -1,6 +1,6 @@
 ---
 id: ck8s-cli
-name: ck8s
+name: ck8s-cli
 defaultVersion: 0.1.11
 layout: file
 executable: ck8s
